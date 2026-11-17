@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap for David Oluwadarasimi's portfolio — https://theofficialdarasimi.vercel.app/
+     The portfolio is a single-page site, so the homepage is the only crawlable page.
+     Anchor sections (#work, #services, #process, #about, #contact) are fragments of
+     the same page and are intentionally not listed. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://theofficialdarasimi.vercel.app/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

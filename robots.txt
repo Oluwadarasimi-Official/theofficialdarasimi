@@ -1,0 +1,10 @@
+# Robots.txt for David Oluwadarasimi's portfolio
+# https://theofficialdarasimi.vercel.app/
+# Last updated: 2026-10-18
+
+# Allow all public search crawlers (including Googlebot) to crawl every
+# publicly accessible portfolio page. Nothing here is blocked.
+User-agent: *
+Allow: /
+
+Sitemap: https://theofficialdarasimi.vercel.app/sitemap.xml
