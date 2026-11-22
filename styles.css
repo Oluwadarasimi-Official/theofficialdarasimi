@@ -247,6 +247,9 @@ img{max-width:100%;display:block}
 .card-visual.card-shot{background:#0d0f14;padding:0}
 .card-visual.card-shot::after{display:none}
 .card-shot img{display:block;width:100%;height:100%;object-fit:cover;object-position:top center;border-bottom:1px solid var(--border)}
+/* logo thumbnails (no website): show the whole logo, centred on black */
+.card-visual.card-logo{background:#000}
+.card-logo img{object-fit:contain;object-position:center;padding:10px;box-sizing:border-box}
 .v-emerald{background:linear-gradient(135deg,#065f46,#10b981,#34d399)}
 .v-teal{background:linear-gradient(135deg,#0f766e,#2dd4bf,#5eead4)}
 .v-cyan{background:linear-gradient(135deg,#0e7490,#22d3ee,#67e8f9)}

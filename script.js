@@ -68,7 +68,7 @@
   var openBtn = document.getElementById('pvOpen');
   var WA = 'https://wa.me/2347010168667?text=';
   // Sites that refuse to be embedded (X-Frame-Options / frame-ancestors), checked 2026-11-22
-  var BLOCKED = ['nexorabydavy.vercel.app','nova-exam-hub.base44.app','opera-metric-core.base44.app','ultraneatcomputercenter.vercel.app','t.me'];
+  var BLOCKED = ['nexorabydavy.vercel.app','nova-exam-hub.base44.app','opera-metric-core.base44.app','ultraneatcomputercenter.vercel.app','hustlyapp.vercel.app','t.me'];
   var frame = null, timer = null, lastFocus = null, scrollY = 0;
 
   function host(u){ try{ return new URL(u).hostname; }catch(e){ return ''; } }
